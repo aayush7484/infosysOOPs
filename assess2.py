@@ -16,4 +16,3 @@ class bank:
 obj1=bank()
 obj1.deposit()
 obj1.withdraw()
-p
